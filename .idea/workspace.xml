@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b511090d-2829-4ecb-9065-84c1fdafd523" name="Default Changelist" comment="Commit initial" />
+    <list default="true" id="b511090d-2829-4ecb-9065-84c1fdafd523" name="Default Changelist" comment="add gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607610772812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore">
+      <created>1607611633145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607611633145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,17 +104,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit initial" />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1607611246937">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1607611246937" />
-    <state x="515" y="251" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1607611482302">
+    <state x="515" y="251" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1607611636549">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="515" y="251" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1607611482302" />
+    <state x="515" y="251" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1607611636549" />
     <state x="731" y="468" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607610885310">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

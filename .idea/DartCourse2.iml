@@ -5,8 +5,12 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/defis_layout/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/defis_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/jeu2des/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/jeu2des/build" />
       <excludeFolder url="file://$MODULE_DIR$/magic8balls/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/magic8balls/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter2/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
